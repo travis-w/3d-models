@@ -1,2 +1,3 @@
 # 3d-models
-Random models for 3d printing, built with OpenSCAD
+Random models for 3d printing, built with [OpenSCAD](https://openscad.org/)
+
